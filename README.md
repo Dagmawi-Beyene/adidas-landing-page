@@ -7,3 +7,5 @@ A single page that contains a 3d-card-effect animation. It composes of HTML, CSS
 Try the it [live](https://dagmawi-beyene.github.io/adidas-landing-page/)
 
 ## Preview
+
+![Landing page demo] (demo.gif)
