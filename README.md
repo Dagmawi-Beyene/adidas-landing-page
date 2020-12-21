@@ -8,4 +8,4 @@ Try the it [live](https://dagmawi-beyene.github.io/adidas-landing-page/)
 
 ## Preview
 
-![Landing page demo] (/demo.gif)
+![Landing page demo] (https://github.com/Dagmawi-Beyene/adidas-landing-page/edit/main/demo.gif)
